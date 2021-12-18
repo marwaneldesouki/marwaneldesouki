@@ -28,7 +28,7 @@
 
 <br>
 </p>
-- ⚡ Fun fact: ... I am batman. 😎🦇 
+- ⚡ Fun fact: ... I am vampire.🦇 
 
 ### 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=marwaneldesouki&theme=gruvbox" alt="marwaneldesouki"  /></p>
