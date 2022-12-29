@@ -7,8 +7,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Marwan+Eldesouki!;I'm+a+Web+Developer...;I'm+also+Desktop+Developer;And+I'm+From+Egypt)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=marwaneldesouki&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
-
 <h3> Here's some facts about me: </h3>
 
 - 🔭 I’m currently studying in AAST university
