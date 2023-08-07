@@ -9,7 +9,7 @@
 
 <h3> Here's some facts about me: </h3>
 
-- 🔭 I’m currently studying in AAST university
+- 🔭 Graduated from AAST university
 - 🤔 I’m lalso working as a Freelancer.
 - 💬 Ask me about Programming
 
