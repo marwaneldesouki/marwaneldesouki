@@ -11,7 +11,7 @@
   <a href="https://instagram.com/marwaneldesouki" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://t.me/DesoCoder" target="_blank">
+  <a href="https://t.me/IDESOI" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
   <a href="https://discordapp.com/users/326619032340004865" target="_blank">
